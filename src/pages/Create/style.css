@@ -1,0 +1,14 @@
+.inputsContainer {
+    display: flex;
+    align-items: flex-start;
+}
+
+.inputBox {
+    display: inline-flex;
+    flex-direction: column;
+    margin-right: 40px;
+}
+
+.inputBox h5 {
+    margin: 10px 0px;
+}
