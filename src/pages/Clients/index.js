@@ -77,7 +77,7 @@ function Clients() {
             Clientes
           </Typography>
           <Box sx={{ width: '65%' }}>
-            {clients.length ? (
+            {clients && clients.length ? (
               <TableContainer component={Paper}>
                 <Table sx={{ minWidth: 650 }} aria-label='simple table'>
                   <TableHead>
