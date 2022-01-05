@@ -1,3 +1,7 @@
+## Link of published project
+
+[https://jovial-benz-60c580.netlify.app/](https://jovial-benz-60c580.netlify.app/)
+
 ## Available Scripts
 
 In the project directory, you can run:
